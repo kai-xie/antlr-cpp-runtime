@@ -1,0 +1,6 @@
+# VSCode specifics
+.vscode/
+
+# Bazel specifics
+bazel-*
+.bazelversion
